@@ -17,13 +17,16 @@ If a member got stuck on one task. Then the team or part of team will work toget
 
 
 
-## How will will communicate difficulties with a task assigned to us
+## How will we communicate difficulties with a task assigned to us
 
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
-
+ 
+We will meet up a week before the due date. Discusss on the progress and what 
+is left or got stuck on. Then the team or part of the team will work of the problem 
+together. We will maintain communication during the week before the due date to make sure
+everything is on page. 
 
 
 
