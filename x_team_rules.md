@@ -10,7 +10,8 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-
+Each member will volunteer on what task they want to do. Then we split the rest equally.
+If a member got stuck on one task. Then the team or part of team will work together on it.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
