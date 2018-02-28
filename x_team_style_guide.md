@@ -24,12 +24,52 @@
 ### Examples
 
 * classes
+  * Javadoc purpose of class
 * fields
+  * Name should be self explanatory
 * constructors
+  * Javadoc should explain constructor purpose and outcome
 * methods
+  * Name should be self explanatory, javadoc used for finer details
+    * Example: Substring method name is self explanatory, javadoc explains start and end points
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
+    * ```java
+      if(boolean) {
+         ...
+      }
+      else { 
+         ...
+      }
+      ```
   * switch statement
+    * ```java
+      switch(String) {
+         case "a":
+                  break;
+         case "b":
+                  break;
+         default:
+      }
+      ```
   * while loops
+    * ```java
+      while(boolean) {
+         ...
+      }
+      ```
   * for loops
+    * ```java
+      for (int i = 0; i < n; i++) {
+         ...
+      }
+      for (int j = n; j > 0; j--) {
+         ...
+      }
+      ```
   * enhanced for loops
+    * ```java
+      for (String s : list) {
+         ...
+      }
+      ```
