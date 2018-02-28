@@ -1,25 +1,34 @@
 # X-Team NN Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+Code should be easy for humans to read and understand.
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+Standard naming conventions allow easier readability for complex code.
 
 ### Examples
 * interfaces
+  * IInterfaceExample
 * classes
+  * public ExampleClass
 * exception types
+  * ExampleNotFollowedException
 * fields
+  * int thisIsAField
 * methods
+  * public void thisIsAMethod()
 * parameters
+  * thisIsAMethod(String firstArg, int secondArg)
 * local variables
+  * private int \_localVariable
 * instance constants
+  * private final int \_LOCAL_CONSTANT
 * class constants
+  * public static final int CONSTANT_VARIABLE
 
 ## Commenting style for public and private members of a class or interface:
 
-<brief statement of your team's commenting style>
+Code and commenting style should be standard across a program to allow for easier readability 
 
 ### Examples
 
@@ -73,7 +82,3 @@
          ...
       }
       ```
-
-### Anthony's edit
-* I edited this because i had to 
-**BOLD**
