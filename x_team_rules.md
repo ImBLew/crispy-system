@@ -30,5 +30,8 @@ is left or got stuck on. Then the team or part of the team will work of the prob
 together. We will maintain communication during the week before the due date to make sure
 everyone is on the same page. 
 
+## Anthony's edit
+ ** I wrote this because i have to
+ **BOLD**
 
 
