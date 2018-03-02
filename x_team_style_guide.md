@@ -1,4 +1,4 @@
-# X-Team NN Style Guide
+# X-Team 10 Style Guide
 
 Code should be easy for humans to read and understand.
 
