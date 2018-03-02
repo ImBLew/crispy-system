@@ -6,9 +6,9 @@
        * GitHub username 1: ImBlew
        * GitHub username 2: yaakovlevin78
        * GitHub username 3: anthony3221
-       * GitHub username 4:
+       * GitHub username 4: Neptune584
        * GitHub username 5:
-   * When did you complete this exercise? 2/28/2018
+   * When did you complete this exercise? 3/1/2018
    * How long did it take your team to complete this exercise? 1 hour 
 
 ## Table of Contents
